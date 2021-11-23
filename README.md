@@ -11,9 +11,6 @@ To Install this extension in Chrome go in to Extensions, turn on Developer mode 
 
 NOTE 12/11/21 :- If any issues regarding Rewards tabs not opening but searches work still then first try uninstalling the add-on and re-installing it again before opening a ticket. I do maintain it when and as needed and use it daily myself so am usually aware of any issue that breaks it and will be looking to get it working again ASAP. Thanks
 
-<a href="https://www.buymeacoffee.com/h4x0rm1k3" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
-
 ## Upcoming Features
 
 Nothing currently planned. Please open an issue if you have any ideas!
